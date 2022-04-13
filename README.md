@@ -1,2 +1,2 @@
-# maze_cat
+# Maze Cat
 Maze cat game
